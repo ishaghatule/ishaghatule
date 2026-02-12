@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Product Manager · AI-Native Builder · Data Engineer</strong><br>
-  Building intelligent products at the intersection of data, AI, and business strategy.
+  Building Intelligent Products at the Intersection of Data, AI, and Business Strategy.
 </p>
 
 <p align="center">
