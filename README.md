@@ -1,16 +1,122 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Isha Ghatule 👋</h1>
 
-<!--
-**ishaghatule/ishaghatule** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <strong>Product Manager · AI-Native Builder · Data Engineer</strong><br>
+  Building intelligent products at the intersection of data, AI, and business strategy.
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://www.linkedin.com/in/ishaghatule">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:isha.ghatule@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://ishaghatule.github.io/Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧭 About Me
+
+I'm a data-driven Product Manager with deep roots in analytics, data engineering, and applied AI. I build products that turn complex data into clear, actionable decisions — particularly for SMBs and B2B platforms.
+
+Currently, I'm leading product development for **BizLense**, a multi-tenant analytics platform that helps small businesses unify fragmented data into real-time dashboards using AI-assisted workflows. Previously, I've worked across business analytics, data operations, and applied ML research.
+
+- 🎓 **M.S. Global Business Analytics** & **B.S. Information Technology** — Virginia Tech
+- 🎓 **B.Tech Computer Science (Data Science)** — NMIMS University, Mumbai
+- 🏗️ I think in PRDs, ship with data, and prototype with AI
+- 🎯 Passionate about economic empowerment through technology
+
+---
+
+## 🛠️ Technical Skills
+
+**Product & Strategy**
+
+![PRDs](https://img.shields.io/badge/PRDs-333?style=flat-square)
+![Roadmapping](https://img.shields.io/badge/Roadmapping-333?style=flat-square)
+![A/B Testing](https://img.shields.io/badge/A%2FB_Testing-333?style=flat-square)
+![KPI Design](https://img.shields.io/badge/KPI_Design-333?style=flat-square)
+![Agile](https://img.shields.io/badge/Agile-333?style=flat-square)
+![User Discovery](https://img.shields.io/badge/User_Discovery-333?style=flat-square)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
+
+**Languages & Frameworks**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+
+**Data & Cloud Platforms**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/GA4-E37400?style=flat-square&logo=googleanalytics&logoColor=white)
+
+**AI & ML**
+
+![XGBoost](https://img.shields.io/badge/XGBoost-189FDD?style=flat-square)
+![YOLOv5](https://img.shields.io/badge/YOLOv5-00FFFF?style=flat-square)
+![SpaCy](https://img.shields.io/badge/SpaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLM_Workflows-6B21A8?style=flat-square)
+![SHAP](https://img.shields.io/badge/SHAP-FF6F00?style=flat-square)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+---
+
+## 📌 Featured Projects
+
+| Project | What I Built | Stack | Role |
+|---------|-------------|-------|------|
+| **[BizLense](https://github.com/ishaghatule)** | Multi-tenant AI analytics platform for SMBs — unified dashboards across finance, sales, marketing, ops | Python, SQL, LangChain, Streamlit, AWS | Product Manager |
+| **[Loan Default Prediction](https://github.com/ishaghatule/Loan_defaulter_prediction)** | XGBoost risk classifier with SHAP explainability + real-time Streamlit UI | Python, XGBoost, SHAP, Streamlit | Builder |
+| **[Currency Detection System](https://github.com/ishaghatule)** | Assistive app for visually impaired users — real-time Indian currency recognition | YOLOv5, Python, Custom Datasets | ML Engineer |
+| **[Meeting Summarization](https://github.com/ishaghatule)** | Audio → text → extractive summary pipeline using speech recognition + NLP | Wav2Vec2, SpaCy, Python | ML Engineer |
+| **[BellaBeat Marketing Analytics](https://github.com/ishaghatule)** | Customer segmentation on 1.3M rows of Fitbit data — K-Means clustering + GTM dashboards | Python, XGBoost, K-Means, Sigma, Streamlit | Analyst |
+| **[ANN Churn Classification](https://github.com/ishaghatule/ANN-classification--churn)** | Deep learning model for customer churn prediction | TensorFlow, Keras, Python | Builder |
+| **[LSTM Next Word Prediction](https://github.com/ishaghatule/LSTM-Next_Word_prediction)** | Sequence model for next-word prediction using LSTM networks | TensorFlow, Keras, Python | Builder |
+
+---
+
+## 📜 Certifications
+
+🏅 **AWS Cloud Practitioner** (2025) · **McKinsey Forward Program** (2025) · **Google Analytics** (2024) · **SAS Base & Visual Analytics** (2023)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ishaghatule&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishaghatule&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishaghatule&theme=default&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
+## 🗂️ How I Think About Product
+
+```
+Problem Discovery → User Research → PRD → Prioritization → Build & Ship → Measure → Iterate
+                                    ↑                                          |
+                                    └──────────── Data + AI Feedback ──────────┘
+```
+
+I approach product development as a loop: every feature starts with a real user problem, gets validated with data, and ships with clear success metrics. AI isn't a feature — it's a force multiplier at every stage.
+
+---
+
+<p align="center">
+  <em>"Build for the seller. Measure what matters. Ship what works."</em>
+</p>
