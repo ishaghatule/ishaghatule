@@ -12,7 +12,7 @@
   <a href="mailto:isha.ghatule@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://ishaghatule.github.io/Portfolio">
+  <a href="https://ishaghatule.github.io/portfolio">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
