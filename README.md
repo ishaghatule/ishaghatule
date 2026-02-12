@@ -12,8 +12,8 @@
   <a href="mailto:isha.ghatule@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://ishaghatule.github.io/portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
+  <a href="https://ishaghatule.github.io/Portfolio">
+    <img src="https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
@@ -23,12 +23,37 @@
 
 I'm a data-driven Product Manager with deep roots in analytics, data engineering, and applied AI. I build products that turn complex data into clear, actionable decisions — particularly for SMBs and B2B platforms.
 
-Currently, I'm leading product development for **BizLense**, a multi-tenant analytics platform that helps small businesses unify fragmented data into real-time dashboards using AI-assisted workflows. Previously, I've worked across business analytics, data operations, and applied ML research.
-
 - 🎓 **M.S. Global Business Analytics** & **B.S. Information Technology** — Virginia Tech
 - 🎓 **B.Tech Computer Science (Data Science)** — NMIMS University, Mumbai
 - 🏗️ I think in PRDs, ship with data, and prototype with AI
 - 🎯 Passionate about economic empowerment through technology
+
+---
+
+## 💼 Experience
+
+### Product Manager — Zenwealth Club *(Nov 2025 – Present)*
+Owning end-to-end product development for an AI-powered multi-tenant analytics platform serving SMBs.
+- Defined product requirements, success metrics, and integration strategy across finance, sales, marketing, operations, and customer support domains
+- Led cross-functional collaboration with data engineering, frontend, and AI teams to design scalable, tenant-isolated ETL architecture
+- Built and shipped AI-assisted workflows (LLMs + automation agents) for data ingestion, schema mapping, KPI generation, and insights — reducing manual configuration and accelerating onboarding
+- Drove product discovery through user personas, competitive analysis, and rapid prototyping; balanced MVP scope with long-term platform extensibility
+
+> **Stack:** Python · SQL · LangChain · Streamlit · AWS · Databricks
+
+### Business Analyst — OrgFour Inc *(Aug – Nov 2025)*
+- Built end-to-end data pipelines (Python, AWS, SQL) to analyze member engagement and event participation, enabling data-driven community decisions
+- Partnered with product and leadership to define analytics requirements and KPIs influencing roadmap decisions
+- Developed interactive dashboards and ETL workflows in Power BI, improving data accuracy and timeliness by 30%+
+- Enhanced website SEO and analytics tracking using GA4 and A/B testing in an Agile setup
+
+> **Stack:** Python · AWS (S3, EC2, Lambda) · Power BI · Google Analytics
+
+### Data & Operations Analyst — Sanghani Center for AI, Virginia Tech *(Jan – May 2025)*
+- Analyzed operational data using JMP and Power BI to identify trends and deliver insights to stakeholders
+- Developed an automated visitor check-in system using Pandas, SQLite, and Streamlit, reducing manual data entry by 30%
+
+> **Stack:** Python · SQLite · Streamlit · JMP · Power BI
 
 ---
 
@@ -42,6 +67,7 @@ Currently, I'm leading product development for **BizLense**, a multi-tenant anal
 ![KPI Design](https://img.shields.io/badge/KPI_Design-333?style=flat-square)
 ![Agile](https://img.shields.io/badge/Agile-333?style=flat-square)
 ![User Discovery](https://img.shields.io/badge/User_Discovery-333?style=flat-square)
+![Stakeholder Mgmt](https://img.shields.io/badge/Stakeholder_Mgmt-333?style=flat-square)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
 
 **Languages & Frameworks**
@@ -74,15 +100,15 @@ Currently, I'm leading product development for **BizLense**, a multi-tenant anal
 
 ## 📌 Featured Projects
 
-| Project | What I Built | Stack | Role |
-|---------|-------------|-------|------|
-| **[BizLense](https://github.com/ishaghatule)** | Multi-tenant AI analytics platform for SMBs — unified dashboards across finance, sales, marketing, ops | Python, SQL, LangChain, Streamlit, AWS | Product Manager |
-| **[Loan Default Prediction](https://github.com/ishaghatule/Loan_defaulter_prediction)** | XGBoost risk classifier with SHAP explainability + real-time Streamlit UI | Python, XGBoost, SHAP, Streamlit | Builder |
-| **[Currency Detection System](https://github.com/ishaghatule)** | Assistive app for visually impaired users — real-time Indian currency recognition | YOLOv5, Python, Custom Datasets | ML Engineer |
-| **[Meeting Summarization](https://github.com/ishaghatule)** | Audio → text → extractive summary pipeline using speech recognition + NLP | Wav2Vec2, SpaCy, Python | ML Engineer |
-| **[BellaBeat Marketing Analytics](https://github.com/ishaghatule)** | Customer segmentation on 1.3M rows of Fitbit data — K-Means clustering + GTM dashboards | Python, XGBoost, K-Means, Sigma, Streamlit | Analyst |
-| **[ANN Churn Classification](https://github.com/ishaghatule/ANN-classification--churn)** | Deep learning model for customer churn prediction | TensorFlow, Keras, Python | Builder |
-| **[LSTM Next Word Prediction](https://github.com/ishaghatule/LSTM-Next_Word_prediction)** | Sequence model for next-word prediction using LSTM networks | TensorFlow, Keras, Python | Builder |
+| Project | What I Built | Stack |
+|---------|-------------|-------|
+| **[Loan Default Prediction](https://github.com/ishaghatule/Loan_defaulter_prediction)** | XGBoost risk classifier with SHAP explainability + real-time Streamlit dashboard | Python, XGBoost, SHAP, Streamlit |
+| **[Customer Churn — ANN](https://github.com/ishaghatule/ANN-classification--churn)** | Deep learning model for customer churn prediction | TensorFlow, Keras, Python |
+| **[Movie Sentiment — RNN](https://github.com/ishaghatule/Simple-RNN---movie-review)** | Sentiment analysis on movie reviews using Simple RNN | TensorFlow, Keras, Python |
+| **[Next Word Prediction — LSTM](https://github.com/ishaghatule/LSTM-Next_Word_prediction)** | Sequence model for next-word prediction using LSTM networks | TensorFlow, Keras, Python |
+| **Currency Detection System** | Assistive real-time Indian currency recognition for visually impaired users | YOLOv5, Python, Custom Datasets |
+| **Meeting Summarization** | Audio → text → extractive summary pipeline using speech recognition + NLP | Wav2Vec2, SpaCy, Python |
+| **BellaBeat Marketing Analytics** | K-Means customer segmentation on 1.3M rows of Fitbit data + GTM dashboards | Python, XGBoost, K-Means, Sigma, Streamlit |
 
 ---
 
