@@ -118,18 +118,7 @@ Owning end-to-end product development for an AI-powered multi-tenant analytics p
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ishaghatule&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishaghatule&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishaghatule&theme=default&hide_border=true" alt="GitHub Streak"/>
-</p>
-
----
 
 ## 🗂️ How I Think About Product
 
